@@ -1,0 +1,2 @@
+Лабораторная работа № 5 — REST API на Node.js и Express.
+Запуск: установите Node.js 18+ и PostgreSQL, создайте БД agromarket, скопируйте .env.example в .env и укажите строку подключения. Затем npm install, npm run db:init, npm run dev. Подробнее — README.md.
